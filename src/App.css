@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  padding: 3rem 1rem;
+  max-width: 300px;
+  width: 100%;
+  margin: auto;
+}
+
+.image-box {
+  padding-top: 2rem;
+  text-align: center;
+}
+
+.image {
+  width: 100%;
+}
