@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/dog-challenge-reactjs/static/css/main.cb40d2a4.chunk.css",
-    "main.js": "/dog-challenge-reactjs/static/js/main.e0cc350c.chunk.js",
-    "main.js.map": "/dog-challenge-reactjs/static/js/main.e0cc350c.chunk.js.map",
-    "runtime-main.js": "/dog-challenge-reactjs/static/js/runtime-main.37f8aad3.js",
-    "runtime-main.js.map": "/dog-challenge-reactjs/static/js/runtime-main.37f8aad3.js.map",
-    "static/js/2.32a1aa13.chunk.js": "/dog-challenge-reactjs/static/js/2.32a1aa13.chunk.js",
-    "static/js/2.32a1aa13.chunk.js.map": "/dog-challenge-reactjs/static/js/2.32a1aa13.chunk.js.map",
+    "main.css": "/dog-challenge-reactjs/static/css/main.74b5ca97.chunk.css",
+    "main.js": "/dog-challenge-reactjs/static/js/main.5cad6b60.chunk.js",
+    "main.js.map": "/dog-challenge-reactjs/static/js/main.5cad6b60.chunk.js.map",
+    "runtime-main.js": "/dog-challenge-reactjs/static/js/runtime-main.99683e2e.js",
+    "runtime-main.js.map": "/dog-challenge-reactjs/static/js/runtime-main.99683e2e.js.map",
+    "static/js/2.cace44c8.chunk.js": "/dog-challenge-reactjs/static/js/2.cace44c8.chunk.js",
+    "static/js/2.cace44c8.chunk.js.map": "/dog-challenge-reactjs/static/js/2.cace44c8.chunk.js.map",
     "index.html": "/dog-challenge-reactjs/index.html",
-    "precache-manifest.5fd68700d7bc2d7f42959fd69954597a.js": "/dog-challenge-reactjs/precache-manifest.5fd68700d7bc2d7f42959fd69954597a.js",
+    "precache-manifest.66c360d5d697770bf3b5c240bc0f543e.js": "/dog-challenge-reactjs/precache-manifest.66c360d5d697770bf3b5c240bc0f543e.js",
     "service-worker.js": "/dog-challenge-reactjs/service-worker.js",
-    "static/css/main.cb40d2a4.chunk.css.map": "/dog-challenge-reactjs/static/css/main.cb40d2a4.chunk.css.map",
-    "static/js/2.32a1aa13.chunk.js.LICENSE.txt": "/dog-challenge-reactjs/static/js/2.32a1aa13.chunk.js.LICENSE.txt"
+    "static/css/main.74b5ca97.chunk.css.map": "/dog-challenge-reactjs/static/css/main.74b5ca97.chunk.css.map",
+    "static/js/2.cace44c8.chunk.js.LICENSE.txt": "/dog-challenge-reactjs/static/js/2.cace44c8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.37f8aad3.js",
-    "static/js/2.32a1aa13.chunk.js",
-    "static/css/main.cb40d2a4.chunk.css",
-    "static/js/main.e0cc350c.chunk.js"
+    "static/js/runtime-main.99683e2e.js",
+    "static/js/2.cace44c8.chunk.js",
+    "static/css/main.74b5ca97.chunk.css",
+    "static/js/main.5cad6b60.chunk.js"
   ]
 }
