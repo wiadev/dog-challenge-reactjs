@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dog-challenge-reactjs/precache-manifest.235c7c2e51cb071a07f25d01ba122517.js"
+  "/dog-challenge-reactjs/precache-manifest.5fd68700d7bc2d7f42959fd69954597a.js"
 );
 
 self.addEventListener('message', (event) => {
