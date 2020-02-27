@@ -37,7 +37,7 @@ function App() {
           message[key].map(value => {
             result.push({
               title: nameCapitalized(value) + ' ' + nameCapitalized(key),
-              value: value.toLowerCase() + ' ' + key.toLowerCase(),
+              value: key.toLowerCase() + '/' + value.toLowerCase(),
             });
             return value;
           })
@@ -61,6 +61,7 @@ function App() {
         });
       })
     } else {
+      setImageLoading(false);
       setImage(undefined);
     }
   }
