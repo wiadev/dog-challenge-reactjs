@@ -13,4 +13,13 @@
 
 .image {
   width: 100%;
+  display: block;  
+}
+
+.image-wrapper {
+  border: 1px solid white;
+}
+
+.active {
+  border: 1px solid red;
 }

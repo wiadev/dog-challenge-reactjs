@@ -8,5 +8,5 @@ export const getListAll = () => {
 };
 
 export const getImage = (name: string) => {
-  return axios.get<ImageDTO>(`${apiUrl}breed/${name}/images/random`);
+  return axios.get<ImageDTO>(`${apiUrl}breed/${name}/images`);
 }

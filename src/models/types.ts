@@ -7,5 +7,5 @@ export interface ListAllResponseDTO {
 
 export interface ImageDTO {
   status: string;
-  message: string;
+  message: string[];
 }
